@@ -23,12 +23,13 @@
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://ec2-44-202-211-5.compute-1.amazonaws.com:9000</sonar.host.url>
 		
-		<sonar.login>58413ff0c79c151921e61d57a4c90831df942e33</sonar.login>
+		<sonar.login>35a9e58cf2add4ed89ce3a216e9276978e83e910</sonar.login>
 		<sonar.projectKey>pravansai_maven</sonar.projectKey>
+		<sonar.host.url>http://ec2-44-195-88-65.compute-1.amazonaws.com:9000</sonar.host.url>
              
 		<!--
 		<sonar.password>admin</sonar.password>
-                <sonar.host.url>http://ec2-44-202-211-5.compute-1.amazonaws.com:9000</sonar.host.url>
+                
 		
 		<sonar.login>58413ff0c79c151921e61d57a4c90831df942e33</sonar.login>
        
