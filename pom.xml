@@ -28,6 +28,9 @@
              
 		<!--
 		<sonar.password>admin</sonar.password>
+                <sonar.host.url>http://ec2-44-202-211-5.compute-1.amazonaws.com:9000</sonar.host.url>
+		
+		<sonar.login>58413ff0c79c151921e61d57a4c90831df942e33</sonar.login>
        
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
